@@ -1,2 +1,4 @@
-<h1>Welcome#index</h1>
-<p>Find me in app/views/welcome/index.html.erb</p>
+<frame name="mod" src="mod.html" title="mod"> <frameset rows="*,100"> <frameset
+cols="10%,*"> <frame name="Menu" src="nav.html" title="Menu"> <frame
+name="Content" src="201204.html" title="Content"> </frameset> <frame
+name="Link" src="links.html" title="Links"> </frameset>
